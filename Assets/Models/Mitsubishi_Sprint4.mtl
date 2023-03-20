@@ -1,0 +1,76 @@
+# Blender MTL File: 'Mitsubishi_Sprint4.blend'
+# Material Count: 7
+
+newmtl DoorPanelFront
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\AppData\\Local\\Temp\\Temp1_Volvo_S90.zip\\Volvo S90\\textures\\Interior\\DoorPanels\\Front\\DoorPanelFront_Normal_OpenGL.png
+map_Kd C:\\AppData\\Local\\Temp\\Temp1_Volvo_S90.zip\\Volvo S90\\textures\\Interior\\DoorPanels\\Front\\DoorPanelFront_Base_Color Black.png
+map_Ns C:\\AppData\\Local\\Temp\\Temp1_Volvo_S90.zip\\Volvo S90\\textures\\Interior\\DoorPanels\\Front\\DoorPanelFront_Roughness.png
+refl C:\\AppData\\Local\\Temp\\Temp1_Volvo_S90.zip\\Volvo S90\\textures\\Interior\\DoorPanels\\Front\\DoorPanelFront_Metallic.png
+
+newmtl Material__1
+Ns 9.000004
+Ka 1.000000 1.000000 1.000000
+Kd 0.980000 0.980000 0.980000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl black
+Ns 9.000004
+Ka 1.000000 1.000000 1.000000
+Kd 0.078000 0.078000 0.078000
+Ks 0.225000 0.225000 0.225000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl carpaint
+Ns 54.000004
+Ka 1.000000 1.000000 1.000000
+Kd 0.961000 0.961000 0.961000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl interior
+Ns 9.000004
+Ka 1.000000 1.000000 1.000000
+Kd 0.396000 0.396000 0.396000
+Ks 0.360000 0.360000 0.360000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl mirror
+Ns 23.400004
+Ka 1.000000 1.000000 1.000000
+Kd 0.467000 0.537000 0.525000
+Ks 0.126000 0.126000 0.126000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl windowglass
+Ns 81.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.071000 0.133000 0.114000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.300000
+illum 9
